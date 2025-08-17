@@ -16,7 +16,7 @@ Sigue estos pasos para crear un proyecto usando la plantilla:
 ```bash
     npx create-react-app nombre-del-proyecto --template react-template-jhad
 
-
+```
 
 
 2️⃣ **Crear un nuevo proyecto con Create React App y tu plantilla**  
@@ -25,7 +25,7 @@ Sigue estos pasos para crear un proyecto usando la plantilla:
     npm install para instalar dependencias de react js
     cd /nombreProyecto
     npm start para iniciar la app en react js
-
+```
 
 nombre-del-proyecto/
 ├── src/
