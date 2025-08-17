@@ -26,7 +26,7 @@ Sigue estos pasos para crear un proyecto usando la plantilla:
     cd /nombreProyecto
     npm start para iniciar la app en react js
 ```
-
+```bash
 nombre-del-proyecto/
 ├── src/
 │   ├── index.js         # Punto de entrada de la app
@@ -36,7 +36,7 @@ nombre-del-proyecto/
 │   └── Services/        # Servicios (APIs, lógica de negocio)
 ├── package.json         # Configuración del proyecto
 └── README.md            # Documentación
-
+```
 
 #   Librerias Utilizadas
 
