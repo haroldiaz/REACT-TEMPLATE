@@ -36,3 +36,10 @@ nombre-del-proyecto/
 │   └── Services/        # Servicios (APIs, lógica de negocio)
 ├── package.json         # Configuración del proyecto
 └── README.md            # Documentación
+
+
+#   Librerias Utilizadas
+
+    * Material UI
+    * Supabase
+    * icons-material
