@@ -2,8 +2,9 @@
 
 
 ```bash
- 
-npm install react-router-dom
+
+npm install 
+para iniciar el proyecto
 
 
 nombre-del-proyecto/
