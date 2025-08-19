@@ -43,3 +43,8 @@ nombre-del-proyecto/
     * Material UI
     * Supabase
     * icons-material
+
+# Supabase Conection
+
+    *script coneccion
+    *.env con las variables de entorno
